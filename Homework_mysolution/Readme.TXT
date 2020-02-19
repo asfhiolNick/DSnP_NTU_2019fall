@@ -46,18 +46,18 @@ functions, SIM and FRAIG, in fraig. Other than these fault, my code is good to e
 	     程式成績: 460/500 分數.
 
 -	r08921053_hw5: adtComp.pdf/ array.h/ dlist.h/ bst.h
-	     程式成績: 298/450 score;	報告成績: 60/60 score. 
+	     程式成績: 298/450 分數;	報告成績: 60/60 分數. 
 
 -	r08921053_hw6: make.cir/ cirGate.h/ cirGate.cpp/ cirMgr.h/ cirMgr.cpp
-	     程式成績: 402/520 score
+	     程式成績: 402/520 分數.
 
 -	r08921053_hw7: taskMgr.cpp/ myHashSet.h/ myMinHeap.h
-	     程式成績: 450/450 score.
+	     程式成績: 450/450 分數.
 
 -	r08921053_fraig: r08921053.pdf/ Makefile/ myHashMap.h/ myHashSet.h/ make.cir/
 cirCmd.h/ cirCmd.cpp/cirDef.h/ cirFraig.cpp/ cirGate.h/ cirGate.cpp/ cirMgr.h/
 cirMgr.cpp/ cirOpt.cpp/ cirSim.cpp
-       	     程式成績: 188/500 score;	報告成績: 60/100 score.
+       	     程式成績: 188/500 分數;	報告成績: 60/100 分數.
 
 心得: 主要地, 我的解答在作業3有些失誤; 在作業4缺少bst部分並且損失150分; 在作業6缺少
 一些次要的功能; 在fraig專題缺少最後兩個功能, SIM和FRAIG. 除了這些過失, 我的程式應能
