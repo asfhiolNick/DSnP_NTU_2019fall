@@ -1,68 +1,53 @@
-# DSnP_NTU_2019fall
-黃鐘揚老師的"資料結構與程式設計"作業與專題(DSnP)
+# NTU_DSnP_201901
+
+## 概述
+這是一個關於黃鐘揚老師的 "資料結構與程式設計" (DSnP) 作業與專題的 GitHub 存儲庫。本專案包含了與資料結構和程式設計相關的代碼、學習材料和其他資源。
+
+## 專案內容
+- **Homework**: 從課程開源專案 fork 繼承來的作業題目。
+- **Practice**: 從 fork 繼承來的練習題目。
+- **Homework_mysolution**: 我的作業解答。
+  - **r08921052_{hw1,hw2,hw3,hw4,hw5,hw6,hw7}**: 2019 年 9 月至 12 月的修課產出，成績分別為 99/100, 250/250, 145/380, 460/500, 298/450+60/60 (報告), 402/520, 450/450, 188/500+60/100 (報告)。其中 hw3 存在 bug，hw5 因缺少 bst 部分損失 150 分。
+- **final project**: friag，需要實作五個功能來驗證兩個 AIG circuits 是否功能上等價。我最終未完成 SIM 和 FRIAG 這兩個功能。
+
+## 使用語言
+- **C++ (84.5%)**
+- **C (8.5%)**
+- **Makefile (4.7%)**
+- **Perl (1.2%)**
+- **Shell (0.6%)**
+- **Python (0.5%)**
+
+## 貢獻
+歡迎有興趣的開發者和學生對此專案進行貢獻。您可以透過提交 Pull 請求或開啟 Issues 來參與。
+
+## 版權和許可
+本專案遵循適用的版權法。使用前請確認相關授權條款。
 
 
-Homework_mysolution folder contains the seven time Homeworks and Final Project in Data Structure
-and Programming class at NTU in 2019-1 semester, with the folling files:
--	r08921053_hw1: Makefile/ p2Json.h/ p2Json.cpp/ p2Main.cpp
-         Coding Grade: 99/100 score.
- 
--	r08921053_hw2: cmdCharDef.h/ cmdCharDef.cpp/ cmdReader.cpp
-         Coding Grade: 250/250 score.
 
--	r08921053_hw3: cmdParser.h/ cmdParser.cpp/ dbJson.h/ dbJson.cpp/ dbCmd.cpp
-         Coding Grade: 145/380 score.
+# NTU_DSnP_201901
 
--	r08921053_hw4: Makefile.lib/ make.mem/ memCmd.h/ memCmd.cpp/ memMgr.h
-	 Coding Grade: 460/500 score.
+## Overview
+This is a GitHub repository for "Data Structures and Programming" (DSnP) assignments and projects, guided by Professor Huang Zhong-Yang. The repository contains code, learning materials, and other resources related to data structures and programming.
 
--	r08921053_hw5: adtComp.pdf/ array.h/ dlist.h/ bst.h
-	 Coding Grade: 298/450 score;	Report Grade: 60/60 score. 
+## Project Contents
+- **Homework**: Assignments inherited by forking from the course's open-source project.
+- **Practice**: Practice problems also inherited by forking.
+- **Homework_mysolution**: My solutions to the assignments.
+  - **r08921052_{hw1,hw2,hw3,hw4,hw5,hw6,hw7}**: Course outputs from September to December 2019, with scores of 99/100, 250/250, 145/380, 460/500, 298/450+60/60 (report), 402/520, 450/450, 188/500+60/100 (report). Notably, hw3 had some bugs, and hw5 lost 150 points due to the lack of a bst component.
+- **final project**: friag, which required implementing five features to verify the functional equivalence of two AIG circuits. I was unable to complete the SIM and FRIAG features.
 
--	r08921053_hw6: make.cir/ cirGate.h/ cirGate.cpp/ cirMgr.h/ cirMgr.cpp
-	 Coding Grade: 402/520 score
+## Languages Used
+- **C++ (84.5%)**
+- **C (8.5%)**
+- **Makefile (4.7%)**
+- **Perl (1.2%)**
+- **Shell (0.6%)**
+- **Python (0.5%)**
 
--	r08921053_hw7: taskMgr.cpp/ myHashSet.h/ myMinHeap.h
-	 Coding Grade: 450/450 score.
+## Contributions
+Contributions from developers and students interested in this project are welcome. You can participate by submitting Pull Requests or opening Issues.
 
--	r08921053_fraig: r08921053.pdf/ Makefile/ myHashMap.h/ myHashSet.h/ make.cir/
-cirCmd.h/ cirCmd.cpp/cirDef.h/ cirFraig.cpp/ cirGate.h/ cirGate.cpp/ cirMgr.h/
-cirMgr.cpp/ cirOpt.cpp/ cirSim.cpp
-       	 Coding Grade: 188/500 score;	Report Grade: 60/100 score.
-
-Experience: Mainly, my solution has mistake on badly doing hw3; missing bst part in 
-hw5 and lossing 150 score; missing some minor functions in hw6; missing the last two
-functions, SIM and FRAIG, in fraig. Other than these fault, my code is good to enjoy.
-
----------------------------------------------------------------------------
-
-這個資料夾包含資料結構與程式設計課的七次作業和期末專題在台大2019-1學期, 有下列的檔案:
--	r08921053_hw1: Makefile/ p2Json.h/ p2Json.cpp/ p2Main.cpp
-             程式成績: 99/100 分數.
- 
--	r08921053_hw2: cmdCharDef.h/ cmdCharDef.cpp/ cmdReader.cpp
-             程式成績: 250/250 分數.
-
--	r08921053_hw3: cmdParser.h/ cmdParser.cpp/ dbJson.h/ dbJson.cpp/ dbCmd.cpp
-             程式成績: 145/380 分數.
-
--	r08921053_hw4: Makefile.lib/ make.mem/ memCmd.h/ memCmd.cpp/ memMgr.h
-	     程式成績: 460/500 分數.
-
--	r08921053_hw5: adtComp.pdf/ array.h/ dlist.h/ bst.h
-	     程式成績: 298/450 分數;	報告成績: 60/60 分數. 
-
--	r08921053_hw6: make.cir/ cirGate.h/ cirGate.cpp/ cirMgr.h/ cirMgr.cpp
-	     程式成績: 402/520 分數.
-
--	r08921053_hw7: taskMgr.cpp/ myHashSet.h/ myMinHeap.h
-	     程式成績: 450/450 分數.
-
--	r08921053_fraig: r08921053.pdf/ Makefile/ myHashMap.h/ myHashSet.h/ make.cir/
-cirCmd.h/ cirCmd.cpp/cirDef.h/ cirFraig.cpp/ cirGate.h/ cirGate.cpp/ cirMgr.h/
-cirMgr.cpp/ cirOpt.cpp/ cirSim.cpp
-       	     程式成績: 188/500 分數;	報告成績: 60/100 分數.
-
-心得: 主要地, 我的解答在作業3有些失誤; 在作業4缺少bst部分並且損失150分; 在作業6缺少
-一些次要的功能; 在fraig專題缺少最後兩個功能, SIM和FRAIG. 除了這些過失, 我的程式應能
-讓您好好欣賞.
+## Copyright and License
+This project adheres to applicable copyright laws. Please ensure compliance with relevant licensing terms before use.
